@@ -1,0 +1,46 @@
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  color: white;
+  font-family: 'roboto';
+  font-size: 50px;
+}
+.first-name {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 25px;
+  width: 200px;
+}
+.button {
+  height: 50px;
+  background-color: '#ffffff';
+  border-radius: 10px;
+  align-items: center;
+  width: 150px;
+  border: none;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  height: 200px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+.car2-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
